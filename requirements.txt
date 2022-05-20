@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+BeautifulSoup
+openpyxl
+selenium
